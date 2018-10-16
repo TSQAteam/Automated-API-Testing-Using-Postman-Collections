@@ -18,4 +18,6 @@ Collections can be created from the:
 
 **Launch Screen:**
 
+![alt text](https://github.com/TSQAteam/Automated-API-Testing-Using-Postman-Collections/blob/master/Screens/launch_screen.png)
+
 
