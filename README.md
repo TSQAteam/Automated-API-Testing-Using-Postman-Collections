@@ -15,3 +15,7 @@ Collections can be created from the:
 - Launch screen
 - New button
 - Sidebar
+
+**Launch Screen:**
+
+
