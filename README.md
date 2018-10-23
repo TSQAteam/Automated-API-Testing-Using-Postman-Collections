@@ -41,7 +41,10 @@ In the **CREATE A NEW COLLECTION** modal:
 -	Add a test to execute after the collection runs. (You can enter here for the collection or you can override this by specifying in the individual request. Here in this document, we specified in individual requests)
 -	Add variables to the collection and its requests if need.
 -	Click the Create button
+
+
 Eg:
+![alt text](https://github.com/TSQAteam/Automated-API-Testing-Using-Postman-Collections/blob/master/Screens/new_collection.png)
 
 **Add requests to collection**
 We can create and save request(s) to a collection from the:
