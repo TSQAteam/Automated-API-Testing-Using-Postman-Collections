@@ -44,6 +44,7 @@ In the **CREATE A NEW COLLECTION** modal:
 
 
 Eg:
+
 ![alt text](https://github.com/TSQAteam/Automated-API-Testing-Using-Postman-Collections/blob/master/Screens/new_collection.png)
 
 **Add requests to collection**
