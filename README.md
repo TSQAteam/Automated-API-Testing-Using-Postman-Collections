@@ -26,6 +26,8 @@ Collections can be created from the:
 
 **Side Bar**
 
+![alt text](https://github.com/TSQAteam/Automated-API-Testing-Using-Postman-Collections/blob/master/Screens/Side_Bar.png)
+
 Now open the CREATE A NEW COLLECTION modal either from Launch screen > Create New tab > Collection or New button > Collection or Sidebar > Collections > New collection
 In the CREATE A NEW COLLECTION modal:
 -	Enter a name and optional description.
