@@ -20,9 +20,11 @@ Collections can be created from the:
 
 ![alt text](https://github.com/TSQAteam/Automated-API-Testing-Using-Postman-Collections/blob/master/Screens/LS.png)
 
+
 **New Button**
 
 ![alt text](https://github.com/TSQAteam/Automated-API-Testing-Using-Postman-Collections/blob/master/Screens/new_button_collections.png)
+
 
 **Side Bar**
 
