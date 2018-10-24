@@ -167,7 +167,7 @@ To run collections, we can use either
 
 Once we click the run button then Collection Runner window will open as below
 
-In this Collection Runner, select the test environment from the environment dropdown (By default – No Environment), Iterations, Delay, Log Responses & Data on the left and run the collection. You'll see the tests pass as shown in below.
+In this Collection Runner, select the test environment from the environment dropdown (By default – No Environment), Iterations, Delay, Log Responses & Data on the left and run the collection. You'll see the tests pass as shown in below. 
 
 
 
