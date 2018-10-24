@@ -153,15 +153,15 @@ Base URL : http://13.236.67.139:85/api/
 ![alt text](https://github.com/TSQAteam/Automated-API-Testing-Using-Postman-Collections/blob/master/Screens/requests.png)
 
 
-Once we save this collection then we can run this any time with hassle free
+Once we save this collection then we can run this any time with hassle free.
 
 
 
 **Running the Collection**
 
 To run collections, we can use either
--	Postman app collection runner in the header bar.
 
+-	Postman app collection runner in the header bar.
 -	Sidebar > Collections > Saved Folder > Run
 
 
