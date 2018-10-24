@@ -162,16 +162,19 @@ Once we save this collection then we can run this any time with hassle free.
 To run collections, we can use either
 
 -	Postman app collection runner in the header bar.
+
+![alt text](https://github.com/TSQAteam/Automated-API-Testing-Using-Postman-Collections/blob/master/Screens/runner.png)
+
 -	Sidebar > Collections > Saved Folder > Run
 
+![alt text](https://github.com/TSQAteam/Automated-API-Testing-Using-Postman-Collections/blob/master/Screens/run.png)
 
 Once we click the run button then Collection Runner window will open as below
 
+![alt text](https://github.com/TSQAteam/Automated-API-Testing-Using-Postman-Collections/blob/master/Screens/collection_runner.png)
+
 In this Collection Runner, select the test environment from the environment dropdown (By default – No Environment), Iterations, Delay, Log Responses & Data on the left and run the collection. You'll see the tests pass as shown in below. 
 
+![alt text](https://github.com/TSQAteam/Automated-API-Testing-Using-Postman-Collections/blob/master/Screens/collection_runner_result.png)
 
-
-
-
-
-
+In this way, we can automate the api testing process and achieve excellence with time saving efforts.
