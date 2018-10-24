@@ -178,3 +178,7 @@ In this Collection Runner, select the test environment from the environment drop
 ![alt text](https://github.com/TSQAteam/Automated-API-Testing-Using-Postman-Collections/blob/master/Screens/collection_runner_result.png)
 
 In this way, we can automate the api testing process and achieve excellence with time saving efforts.
+
+**Demo Video**
+
+Click [here](https://www.dropbox.com/s/lhs9ebm0vo3x8je/PostMan%20Demo.mp4?dl=0) for the dropbox demo video of above said process.
