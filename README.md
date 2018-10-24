@@ -43,7 +43,7 @@ In the **CREATE A NEW COLLECTION** modal:
 -	Click the Create button
 
 
-Example:
+**Example:**
 
 ![alt text](https://github.com/TSQAteam/Automated-API-Testing-Using-Postman-Collections/blob/master/Screens/new_collection.png)
 
