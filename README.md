@@ -101,46 +101,56 @@ We are using the below two api requests details for this demo:
 
 Base URL : http://13.236.67.139:85/api/ 
 
-Request Name: CreateNewLog
+**Request Name: CreateNewLog**
 
-Url	/json/reply/CreateNewLog
-Method	Post
-Header	Content-Type:"application/json"
-Request	{"LocationID":1}
-Response	{"GrabbaSerialIndex": 1}
+| Properties | Value |
+| :---      | :---  |
+| URL  | /json/reply/CreateNewLog |
+| Method  | Post |
+| Header  | Content-Type:"application/json" |
+| Request  | {"LocationID":1} |
+| Response  | {"GrabbaSerialIndex": 1} |
 
-Request Name: UpdateLog
-Url	/json/reply/UpdateLog
-Method	Post
-Header	Content-Type:"application/json"
-Request	{"Log":
-{
-"GrabbaSerial": "ShoppingItem",
-"GrabbaSerialIndex": 1,
-"IMEI":"itemI456",
-"SIMidentifier":"identifier156",
-"DateTime":"2018-04-06 00:05:20",
-"LocationID":1
-}
-}
-Response	{ "UpdateStatus":True, "ErrorMessage":"" }
+
+**Request Name: UpdateLog**
+
+| Properties | Value |
+| :---      | :---  |
+| URL  | /json/reply/UpdateLog |
+| Method  | Post |
+| Header  | Content-Type:"application/json" |
+| Request  | {"Log":<br>{<br>"GrabbaSerial": "ShoppingItem",<br>"GrabbaSerialIndex": 1,<br>"IMEI":"itemI456",<br>"SIMidentifier":"identifier156",<br>"DateTime":"2018-04-06 00:05:20",<br>"LocationID":1<br>}<br>}|
+| Response  | { "UpdateStatus":True, "ErrorMessage":"" } |
+
+
 
 
 **Adding URL & Method Selection as POST**
 
-
-Select Headers Tab and enter the details from your api details provided
-
-
-Select Body tab and enter the Request details as raw format (You can give which ever format you like form data etc) as given in the api document
-
-Note: If raw is chosen, then JSON(application/json) must be selected.
-Now select Tests tab. Choose any of the available test snippets from the right side block. These tests can be used to verify the response received is correct and assure us that all the sent request are passed or not.
-For this demo we have chosen ‘Status code: Code is 200’ test which is simple and most used one to verify the response received.
+![alt text](https://github.com/TSQAteam/Automated-API-Testing-Using-Postman-Collections/blob/master/Screens/create_new_log.png)
 
 
-Click the save button.
-Now similarly add two or more requests in the same collection. I have added 4 requests in this demo collection as shown in below and saved.
+- Select Headers Tab and enter the details from your api details provided
+
+![alt text](https://github.com/TSQAteam/Automated-API-Testing-Using-Postman-Collections/blob/master/Screens/headers_tab.png)
+
+
+- Select Body tab and enter the Request details as raw format (You can give which ever format you like form data etc) as given in the api document
+
+![alt text](https://github.com/TSQAteam/Automated-API-Testing-Using-Postman-Collections/blob/master/Screens/body_tab.png)
+
+*Note: If raw is chosen, then JSON(application/json) must be selected.*
+
+- Now select Tests tab. Choose any of the available test snippets from the right side block. These tests can be used to verify the response received is correct and assure us that all the sent request are passed or not.
+  For this demo we have chosen ‘Status code: Code is 200’ test which is simple and most used one to verify the response received.
+
+![alt text](https://github.com/TSQAteam/Automated-API-Testing-Using-Postman-Collections/blob/master/Screens/tests_tab.png)
+
+- Click the save button.
+
+- Now similarly add two or more requests in the same collection. I have added 4 requests in this demo collection as shown in below and saved.
+
+![alt text](https://github.com/TSQAteam/Automated-API-Testing-Using-Postman-Collections/blob/master/Screens/requests.png)
 
 
 Once we save this collection then we can run this any time with hassle free
