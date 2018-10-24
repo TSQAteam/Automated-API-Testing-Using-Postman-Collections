@@ -31,7 +31,7 @@ Collections can be created from the:
 
 ![alt text](https://github.com/TSQAteam/Automated-API-Testing-Using-Postman-Collections/blob/master/Screens/Side_Bar.png)
 
-Now open the CREATE A NEW COLLECTION modal either from Launch screen > Create New tab > Collection or New button > Collection or Sidebar > Collections > New collection.
+Now open the CREATE A NEW COLLECTION modal either from Launch screen > Create New tab > Collection *or* New button > Collection *or* Sidebar > Collections > New collection.
 
 
 In the **CREATE A NEW COLLECTION** modal:
@@ -48,33 +48,49 @@ Example:
 ![alt text](https://github.com/TSQAteam/Automated-API-Testing-Using-Postman-Collections/blob/master/Screens/new_collection.png)
 
 **Add requests to collection**
+
 We can create and save request(s) to a collection from the:
 -	Request builder
 -	New button
 -	Launch screen
 
+![alt text](https://github.com/TSQAteam/Automated-API-Testing-Using-Postman-Collections/blob/master/Screens/add_request.png)
+
 **Build view**
 
 In the Workspaces build view, enter a new request in the builder.
+
 Click the Save button.
+
 In the SAVE REQUEST modal, enter a request name and select a collection or folder to save the request.
+
 Click the Save button.
 
 **New button**
 
 In the header toolbar, click the New button.
+
 Click "Request".
+
 In the SAVE REQUEST modal, enter a request name and select a collection or folder to save the request.
+
 Click the Save button.
 
 **Launch screen**
 
 The Create New tab appears by default when you launch Postman.
+
 Open Postman.
+
 In the Create New tab, click "Request".
+
 In the SAVE REQUEST modal, enter a title and description.
+
 Select a collection and save the request in an existing collection or create a new collection.
+
 Click the Save button
+
+![alt text](https://github.com/TSQAteam/Automated-API-Testing-Using-Postman-Collections/blob/master/Screens/edit_request.png)
 
 
 After you save the request, you can add the URL, method, headers, and body to the request in the builder.
