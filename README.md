@@ -94,10 +94,15 @@ Click the Save button
 
 
 After you save the request, you can add the URL, method, headers, and body to the request in the builder.
-Eg.
+
+**Example:**
+
 We are using the below two api requests details for this demo:
+
 Base URL : http://13.236.67.139:85/api/ 
+
 Request Name: CreateNewLog
+
 Url	/json/reply/CreateNewLog
 Method	Post
 Header	Content-Type:"application/json"
